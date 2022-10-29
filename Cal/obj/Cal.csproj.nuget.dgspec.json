@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cal\\Cal\\Cal.csproj": {}
+    "D:\\Demo\\Cal\\Cal\\Cal.csproj": {}
   },
   "projects": {
-    "D:\\Cal\\Cal\\Cal.csproj": {
+    "D:\\Demo\\Cal\\Cal\\Cal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cal\\Cal\\Cal.csproj",
+        "projectUniqueName": "D:\\Demo\\Cal\\Cal\\Cal.csproj",
         "projectName": "Cal",
-        "projectPath": "D:\\Cal\\Cal\\Cal.csproj",
+        "projectPath": "D:\\Demo\\Cal\\Cal\\Cal.csproj",
         "packagesPath": "C:\\Users\\Hieu Ngo\\.nuget\\packages\\",
-        "outputPath": "D:\\Cal\\Cal\\obj\\",
+        "outputPath": "D:\\Demo\\Cal\\Cal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hieu Ngo\\AppData\\Roaming\\NuGet\\NuGet.Config",
